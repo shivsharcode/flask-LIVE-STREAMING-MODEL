@@ -1,0 +1,25 @@
+
+
+
+#heading{
+    text-align: center;
+}
+
+.videobox{
+    margin: auto;
+    width: 80rem;
+    border: 2px solid black;
+
+
+}
+
+#btn-state{
+    width: 8rem;
+    height: 4rem;
+    border: none;
+    border-radius: 0.5rem;
+}
+
+#btn-state:hover{
+    border: 1px green solid;
+}
